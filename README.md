@@ -10,7 +10,7 @@ My name is Alejandro, I am a computer security and free software enthusiast.
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-gray?style=flat&logo=markdown)&nbsp;
 
@@ -36,5 +36,8 @@ My name is Alejandro, I am a computer security and free software enthusiast.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alelizzt&show_icons=true&theme=merko&include_all_commits=true&count_private=true&border_color=A4F72A"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alelizzt&layout=compact&langs_count=8&border_color=A4F72A&theme=merko"/>
+ 
+ ![Alelizzt's profile views](https://komarev.com/ghpvc/?username=alelizzt&color=green)
 </div>
+
 
