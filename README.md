@@ -36,8 +36,9 @@ My name is Alejandro, I am a computer security and free software enthusiast.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alelizzt&show_icons=true&theme=merko&include_all_commits=true&count_private=true&border_color=A4F72A"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alelizzt&layout=compact&langs_count=8&border_color=A4F72A&theme=merko"/>
- ![Snake animation](https://github.com/Alelizzt/Alelizzt/blob/output/github-contribution-grid-snake.svg)
- ![Alelizzt's profile views](https://komarev.com/ghpvc/?username=alelizzt&color=green)
+ 
+ ![Alelizzt's profile views](https://komarev.com/ghpvc/?username=alelizzt&color=green)&nbsp;
 </div>
 
+![Snake animation](https://github.com/Alelizzt/Alelizzt/blob/output/github-contribution-grid-snake.svg)&nbsp;
 
