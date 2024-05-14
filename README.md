@@ -1,8 +1,11 @@
-<h1 align="center"> :computer: Welcome! </h1>
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ABD200&center=true&random=false&width=690&lines=print(%22Hello+Friend!%22);print(%22Wellcome+to+my+Github+profile%22)" alt="Typing SVG" /></a>
+</h1>
 <p align="center">
-My name is Alejandro, and I'm a Telematics Engineer, in my free time I'm a computer security and open source enthusiast. </br>
-Currently learning Clean Code and good practices.
- </p>
+ Hey! Iván here! I love to create things and sometimes break them; I consider learning a lifestyle. </br>
+ Here you can watch some projects that I use as practice coding, maybe in the future you can see any useful ones. </br>
+ Currently learning Clean Code and good practices.
+</p>
 <div align="center" display="block">
 <img alt="Coding" src="https://raw.githubusercontent.com/Alelizzt/Alelizzt/master/assets/image.gif" align="center"/>
 </div>
