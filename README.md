@@ -51,5 +51,3 @@
  ![Alexlizzt's profile views](https://komarev.com/ghpvc/?username=Alexlizzt&color=green&label=Alexlizzt's+profile+views)&nbsp;
 </div>
 
-![Snake animation](https://github.com/Alexlizzt/Alexlizzt/blob/output/github-contribution-grid-snake.svg)&nbsp;
-
